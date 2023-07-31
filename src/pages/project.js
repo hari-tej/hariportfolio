@@ -20,7 +20,7 @@ export const Project=()=>{
                   
                    <ul className="align-items-center mt-5">
                    <li className="text-start ms-2 "><h5>This is a website that is designed for the needs of the students.</h5></li>
-                   <li className="text-start ms-2"><h5>It conatains youtube links and PYQs of all subjects from 2nd, 3rd and 4th years</h5></li>
+                   <li className="text-start ms-2"><h5>It contains youtube links and PYQs of all subjects from 2nd, 3rd and 4th years</h5></li>
                    <li className="text-start ms-2"><h5>It also contains a section for placement which contains a number of youtube resources for their preperation</h5></li>
                    <li className="text-start ms-2"><h5>It also contains a section where they can connect to their seniors for their queries.</h5></li>
                    </ul>
@@ -51,6 +51,28 @@ export const Project=()=>{
                    <h5 className="text-start ms-5">Backend:  <a href="https://github.com/hari-tej/backend_review.git" target="_blank"> <FaGithub size="50px" color="black"/></a></h5> <br></br>
                    
                    <h5 className="text-start ms-5 mb-5">Website:  <a href="https://starlit-caramel-de79dd.netlify.app/" target="_blank"> <FaGlobe size="50px" /> </a></h5><br></br>
+                  
+             </div>
+       </div>
+       </div>
+       <div className="col">
+        <div class="card my-5 shadow-lg">
+           <h2 className="text-center text-primary mt-4  fs-bolder">URL Trimmer</h2>
+             <div class="card-body">
+             <img src="url.png" className="img-fluid"  alt="..." />
+              
+                  
+                   <ul className="align-items-center mt-5">
+                   <li className="text-start ms-2 "><h5>This is a small backend project which shortens an entered URL.</h5></li>
+                   <li className="text-start ms-2"><h5>On entering a long URL a shorter URL is generated for the same</h5></li>
+                   <li className="text-start ms-2"><h5>Details about the URL entered and the number of clicks on each shortened URL is displayed in the form of table</h5></li>
+                   </ul>
+                   <h5 className="text-start ms-4 me-2 text-primary">Technologies used: Node.js,MongoDb and a library called-shortid</h5><br></br>
+   
+                  
+                   <h5 className="text-start ms-5">Github:  <a href="https://github.com/hari-tej/urlshort.git" target="_blank"> <FaGithub size="50px" color="black"/></a></h5> <br></br>
+                   
+                   <h5 className="text-start ms-5 mb-5">Website:  <a href="https://tejaurlshort.onrender.com/" target="_blank"> <FaGlobe size="50px" /> </a></h5><br></br>
                   
              </div>
        </div>
