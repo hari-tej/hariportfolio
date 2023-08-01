@@ -48,7 +48,7 @@ export const About=()=>{
             </div>
             <div className="cardlo" >
          
-             <button className="btn border rounded border-dark border-2 p-4 fs-larger"><a style={{color:"white",textDecoration:"none"}}  href='Github.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a></button>
+             <button className="btn border rounded border-dark border-2 p-4 fs-larger"><a style={{color:"white",textDecoration:"none"}}  href='Resume-hari-2023.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a></button>
             </div>
             </div>
         
