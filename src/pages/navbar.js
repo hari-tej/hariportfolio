@@ -51,7 +51,7 @@ export const Navbar=()=>{
       <nav className="navbar navbar-expand-lg navbar-light  ">
          <div className="container-fluid pt-5   pb-2  mt-0  ">
             <h4 className="navbar-brand fw-bolder text-light ">CHEGONDI HARI TEJA</h4>
-             <button className="navbar-toggler bg-warning" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight" aria-expanded="false" aria-label="Toggle navigation">
+             <button className="navbar-toggler " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon my-0"></span>
                 
              </button>

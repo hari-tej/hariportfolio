@@ -24,17 +24,17 @@ export const About=()=>{
              <img src={img} className="img-fluid" alt=".."/>
            <div className="textarea">
             <br></br>
-            <span>
+            <span >
             
-            <h1 style={{color:"white",fontSize:"40px"}} >Hello!
-             <span style={{color:"white",fontSize:"40px",fontFamily:"Montserrat",textShadow:"5px 5px 5px red"}}> I'm <b>Chegondi Hari Teja </b>
-             </span></h1>
+            <h1 style={{color:"white",fontSize:"38px"}} >Hello! I'm </h1>
+             <div style={{color:"white",fontSize:"34px",fontFamily:"Montserrat",textShadow:"5px 5px 5px purple"}}>  <b>Chegondi Hari Teja </b>
+             </div>
             </span>
              
           
              <h3 style={{margin:'50px',color:'white'}}>
             I'm a 
-            <span style={{color:"yellow",fontSize:"30px"}}> <b>{text}</b>            
+            <span style={{color:"yellow",fontSize:"31px"}}> <b>{text}</b>            
             </span>
             <span><Cursor cursorStyle='|'/></span>
             
@@ -48,7 +48,7 @@ export const About=()=>{
             </div>
             <div className="cardlo" >
          
-             <button className="btn border rounded border-dark border-2 p-4 fs-larger"><a style={{color:"white",textDecoration:"none"}}  href='Resume-hari-2023.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a></button>
+            <a className="btn border rounded border-dark border-2 p-4 fs-larger" style={{color:"white",textDecoration:"none"}}  href='Resume-hari-2023.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a>
             </div>
             </div>
         

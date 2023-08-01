@@ -37,6 +37,10 @@
   
 }
 
+#headertext{
+    margin-top: 5%;
+}
+
 body{
     background-color:rgb(201, 197, 197);
 }
@@ -46,7 +50,7 @@ body{
 
 
 
-.cardlo button:hover{
+.cardlo a:hover{
     box-shadow: 10px 10px 10px white;
     background-color: black;
    
