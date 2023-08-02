@@ -48,7 +48,7 @@ export const About=()=>{
             </div>
             <div className="cardlo" >
          
-            <a className="btn border rounded border-dark border-2 p-4 fs-larger" style={{color:"white",textDecoration:"none"}}  href='Resume-hari-2023.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a>
+            <a className="btn border rounded border-dark border-2 p-4 fs-larger" style={{color:"white",textDecoration:"none"}}  href='Hari-Resume.pdf' download='resume.pdf'><b><h3>Download Resume</h3></b></a>
             </div>
             </div>
         
